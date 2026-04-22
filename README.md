@@ -10,12 +10,15 @@ This system helps us identify inactive, sitting in prohibited areas, and passed-
 Used SSD-Mobilenet-v2 model
 Real-time detection using Jetson Nano camera
 Used OpenCV for UI overlay
+
 ⚠️ Anomaly Definition
 Standing → Normal
-Sitting → Anomaly
-Lying → Anomaly
-🎨 UI Design
 
+Sitting → Anomaly
+
+Lying → Anomaly
+
+🎨 UI Design
 Inspired by Iron Man (JARVIS system)
 
 Includes:
