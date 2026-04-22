@@ -12,6 +12,7 @@ Real-time detection using Jetson Nano camera
 Used OpenCV for UI overlay
 
 ⚠️ Anomaly Definition
+
 Standing → Normal
 
 Sitting → Anomaly
@@ -24,9 +25,13 @@ Inspired by Iron Man (JARVIS system)
 Includes:
 
 JARVIS SYSTEM ONLINE
+
 SCANNING TARGET
+
 THREAT DETECTED
+
 STATUS: INACTIVE
+
 📸 Results
 
 ✅ Conclusion
