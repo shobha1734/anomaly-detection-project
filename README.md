@@ -1,4 +1,5 @@
 📌 Anomaly Detection using Object Detection (Jetson Nano)
+
 🎯 Objective
 
 The goal of this project is to build a real-time anomaly detection system using object detection on the Jetson Nano.
